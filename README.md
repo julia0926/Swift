@@ -1,5 +1,5 @@
 ## 문법 공부
 - Class
-- Colletions
+- Colletions (Array, Dictionary, Set)
 
 ## 개발
