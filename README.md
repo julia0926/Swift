@@ -1,6 +1,9 @@
 ## 문법 공부
-- Class
+- Struct, Class
 - Colletions (Array, Dictionary, Set)
+- Enum
+- Optinoal
+- Closer
 
 ## 개발
 ### 2021.07.20
